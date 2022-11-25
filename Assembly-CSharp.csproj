@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CameraLerpToTransform.cs" />
+    <Compile Include="Assets\Scripts\SoyBoyController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
